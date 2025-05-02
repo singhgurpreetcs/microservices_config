@@ -2,7 +2,7 @@ build:
   version: "11.0"
 
 cards:
-  message: "Welcome to cards related prod apis"
+  message: "Welcome to cards related Production apis"
   contactDetails:
     name: "Gurpreet Singh -PROD"
     email: "er.gurprodcards@yahoo.com"
