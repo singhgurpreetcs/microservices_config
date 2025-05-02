@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related Prod apis"
   contactDetails:
     name: "Gurpreet Singh- PROD"
-    email: "gurprodaccounts@gmail.com"
+    email: "{cipher}be6a9a77e736f99d43ef3f7d1fbd807c072f97316a7702e533490a3ff9cc62b2410a7a073885d82e8420f90b1c86c97e"
   onCallSupport:
     - 8929014411
     - 8929014411
