@@ -2,7 +2,7 @@ build:
   version: "17.0"
 
 loans:
-  message: "Welcome to loans related Production apis"
+  message: "Welcome to loans related Production apis- reload using cloud bus rabbitmq"
   contactDetails:
     name: "Gurpreet Singh -Prod"
     email: "er.gurprodloans@yahoo.com"
