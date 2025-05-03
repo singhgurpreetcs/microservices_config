@@ -2,7 +2,7 @@ build:
   version: "11.0"
 
 cards:
-  message: "Welcome to cards related Production apis"
+  message: "Welcome to cards related Production apis- reload using cloud bus rabbitmq"
   contactDetails:
     name: "Gurpreet Singh -PROD"
     email: "er.gurprodcards@yahoo.com"
