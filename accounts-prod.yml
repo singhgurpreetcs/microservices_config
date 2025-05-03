@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related Production apis"
+  message: "Welcome to Bank accounts related Production apis-reload using cloud bus rabbitmq"
   contactDetails:
     name: "Gurpreet Singh- PROD"
     email: "{cipher}be6a9a77e736f99d43ef3f7d1fbd807c072f97316a7702e533490a3ff9cc62b2410a7a073885d82e8420f90b1c86c97e"
