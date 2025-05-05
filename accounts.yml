@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank accounts related local apis"
+  message: "Welcome to Bank accounts related local apis- using docker"
   contactDetails:
     name: "Gurpreet Singh -Developer"
     email: "gurdevaccounts@gmail.com"
